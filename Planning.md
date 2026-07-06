@@ -1,6 +1,6 @@
 What need to be done:
 1. Website
-2. Presentation for opening day (svoyak game)
+2. Presentation for opening day 
 3. Presentation for closing day 
 4. Merch (promo video)
 5. Rules
