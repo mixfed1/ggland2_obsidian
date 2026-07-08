@@ -18,3 +18,5 @@ players:
 13 Tomas
 14 Kirill
 15 lizardpalace
+
+Глеб + Леша + Чв + Гриша + Ксюша + 
